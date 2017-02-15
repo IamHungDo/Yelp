@@ -4,6 +4,8 @@
 
 Time spent: **20** hours spent in total
 
+***Important*** There are very few commmits in this repository because I did something ridiculous on teminal and blew up my old repository... 
+
 ## User Stories
 
 The following **required** functionality is completed:
